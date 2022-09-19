@@ -6,6 +6,8 @@ With the ever-growing number of users and prevalence of search engines it is imp
 
 ## Usage
 
+Link to deployed application: [https://thafer1.github.io/Challenge1/](https://thafer1.github.io/Challenge1/)
+
 <img src="assets/images/Screenshot 1.png">
 <img src="assets/images/Screenshot 2.png">
 
