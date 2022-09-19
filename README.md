@@ -6,8 +6,8 @@ With the ever-growing number of users and prevalence of search engines it is imp
 
 ## Usage
 
-<img src="assets/images/Screenshot 1.png" width="50%" height="50%">
-<img src="assets/images/Screenshot 2.png" width="50%" height="50%">
+<img src="assets/images/Screenshot 1.png">
+<img src="assets/images/Screenshot 2.png">
 
 ## Credits
 
